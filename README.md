@@ -1,6 +1,7 @@
 ### Olá eu Sou Sidney Marciano !!!
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://tibpo.com.br/)
+![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://mourafaq.com.br/)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 [![Delivery](https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white)](https://cardapio.pedidointeligente.com.br/site/)
